@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Thank you for taking interest in reporting security issues
+Contact: security@james-firth.com
+Contact: https://twitter.com/dark_james
+Encryption: https://keybase.io/jamesfirth/pgp_keys.asc
+Preferred-Languages: en
+Canonical: https://james-firth.com/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+wsFcBAABCgAGBQJcxM31AAoJEChECGpVe5s/nKwP/3xN2Jv6d7oPnLGnFKxG1Gj2
+UvKrpehfZaDySdWnMKaTroE1AzD7C8RWis4OBB0s5T7d3FLgGdnDpy8W3+oDnDkx
+2UhbWypqtYGYof6M6fBKWUclrkyU/e7l5GLo1l4wtgw2BFjQ37Tum2FQASXDCfJK
+0Zl5o7wHhd+Sn3qdnm6PwIwkjZnkMUMszlCrBGSAUNK9uWdp0uxXLa0+jXoWp2ty
+zoqJaeCUiAxgggKhzGXEar/3eSdU3m1Au/LcijJA4RwHXW+CC3AjundCCQS8GNSm
+9GQH1KdZ2pcpyUSz1TCtVsH814GQUhWJVAqbp4QjOFH4kskwXfXk/Nml5lmYXrve
++Hqr0o8t8oqY/MkDvlZx0I1JkLjRJJ8ePs1VV+5p9XA/QOzzexRUIAvWwt9mbr1X
+iLaHeMLWYGMowjoTUlvcb93t+eF+9bEVyWTkZG3cgAm8j0Zh943m8wJo4MF2TZXr
+cwXo453nYsd9HmOZnQtezlHEWrLTGQFrNOx/yEQUF+4Novfd+AxA6VwrFzPip8Ml
+o7RJRjapAVHPrnR396qaGKXDxutXYuZaZpmeCLp5BAS/Wv8ehbZysxEY/YffzOLP
+Z1q0F9gRrSTqJBRLW2XNojBEwgGgjSI1hDeNp2HS6qJ9IS0tQCIGbS8MRg2kV/TL
+gZevjQSWuMwRqmcjyuZS
+=urY+
+-----END PGP SIGNATURE-----
