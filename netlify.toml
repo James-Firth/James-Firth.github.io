@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/projects/*"
-  to = "https://james-firth.github.io/:splat"
-  status = 301
-  force = true
