@@ -1,2 +1,4 @@
 [[redirects]]
-  https://james-firth.github.io/:splat   200
+  from = "/*"
+  to = "https://james-firth.github.io/:splat"
+  status = 200
